@@ -1,1 +1,1 @@
-# DIC
+# Data Intensive computing
